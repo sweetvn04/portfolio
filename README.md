@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio - Nguyễn Quốc Bảo
 
 Hi there! This is my personal portfolio website, built to showcase my journey as a **Computer Science** student specializing in **System Administration**, **DevOps**, and **Modern Web Development**.
@@ -30,6 +31,3 @@ The project follows a "Continuous Quality" approach:
 - GitHub: [@sweetvn04](https://github.com/sweetvn04)
 - LinkedIn: [Quốc Bảo Nguyễn](https://www.linkedin.com/in/quoc-bao-nguyen-62b3593a2/)
 - Email: nguyenquocbao2004tvc@gmail.com
-
----
-*This project was originally inspired by the Portfolio V4 template by Muhammad Fiaz.*
