@@ -82,7 +82,7 @@ export const siteConfig: SiteConfig = {
     allowSystem: true,
   },
   links: {
-    website: 'https://sweetvn2004.id.vn',
+    website: 'https://portfolio.sweetvn2004.id.vn',
     github: 'https://github.com/sweetvn04',
     linkedin: 'https://www.linkedin.com/in/quoc-bao-nguyen-62b3593a2/',
     tips: '#',
@@ -127,7 +127,7 @@ export const siteConfig: SiteConfig = {
       'Homelab',
       'AI VTuber'
     ],
-    canonical: 'https://sweetvn2004.id.vn',
+    canonical: 'https://portfolio.sweetvn2004.id.vn',
     image: '/og.png',
     imageAlt: "sweetvn's Portfolio",
     locale: 'en-US',

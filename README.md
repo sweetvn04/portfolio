@@ -3,7 +3,7 @@
 Hi there! This is my personal portfolio website, built to showcase my journey as a **Computer Science** student specializing in **System Administration**, **DevOps**, and **Modern Web Development**.
 
 ## 🌐 Live Demo
-Check out the live site: [sweetvn2004.id.vn](https://sweetvn2004.id.vn)
+Check out the live site: [portfolio.sweetvn2004.id.vn](https://portfolio.sweetvn2004.id.vn)
 
 ## 🏗️ Architecture & Tech Stack
 This project is built using a modern, scalable stack and follows a "Hybrid Deployment" strategy to ensure 24/7 availability while keeping Home Lab projects self-hosted.
