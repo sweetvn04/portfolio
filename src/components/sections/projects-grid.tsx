@@ -67,21 +67,21 @@ export function ProjectsGrid() {
 
         // Define Custom Projects (Mentor added this)
         const myCustomProjects: GitHubRepo[] = [
-          {
-            id: 9991,
-            name: "This is a demo",
-            full_name: "my/homelab-infrastructure",
-            description: "Self-hosted ecosystem with Docker, Jellyfin, Telegram Bot, Reverse Proxy tailored for personal use.",
-            html_url: "#", // Add your real link here later
-            homepage: null,
-            stargazers_count: 10,
-            forks_count: 2,
-            language: "Docker",
-            topics: ["Docker", "Linux", "Self-Hosted", "Automation"],
-            created_at: new Date().toISOString(),
-            updated_at: new Date().toISOString(),
-            pushed_at: new Date().toISOString(),
-          }
+          // {
+          //   id: 9991,
+          //   name: "This is a demo",
+          //   full_name: "my/homelab-infrastructure",
+          //   description: "Self-hosted ecosystem with Docker, Jellyfin, Telegram Bot, Reverse Proxy tailored for personal use.",
+          //   html_url: "#", // Add your real link here later
+          //   homepage: null,
+          //   stargazers_count: 10,
+          //   forks_count: 2,
+          //   language: "Docker",
+          //   topics: ["Docker", "Linux", "Self-Hosted", "Automation"],
+          //   created_at: new Date().toISOString(),
+          //   updated_at: new Date().toISOString(),
+          //   pushed_at: new Date().toISOString(),
+          // }
           // ,
           // {
           //   id: 9992,
